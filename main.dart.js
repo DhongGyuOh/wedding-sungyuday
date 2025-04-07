@@ -72701,7 +72701,7 @@ o.d=m
 s=6
 return A.t(m.dt(B.pT),$async$oI)
 case 6:s=7
-return A.t(o.d.rU(A.axx(A.fj("https://cdn.pixabay.com/audio/2023/12/22/audio_9056c08f0d.mp3",0,null),null,null),null,!0),$async$oI)
+return A.t(o.d.rU(A.axx(A.fj("https://cs1.mp3.pm/download/199049312/bjJyWFJiaWNLcjN0eFNUTUNab1R5RDczY2hMUmx1WjMrcXJzNW55cG1GbE50WDhiVEk5WGdmZUxiNUt2L0Z0VlBTTDhYRDdoMlpwUVRBRnVtUUxSUWR1bHh3enN3UHk4N0tRaUcyS0wvKzVLL0NvWFFWMFdkSzg3NU9COVpXUmo/Sunwoo_Jung-A_-_Darling_OST_Melanholiya_(mp3.pm).mp3",0,null),null,null),null,!0),$async$oI)
 case 7:q=1
 s=5
 break
@@ -76045,7 +76045,7 @@ B.kj=new A.aA(4e6)
 B.Au=new A.aA(5e4)
 B.kk=new A.aA(5e5)
 B.cK=new A.aA(6e5)
-B.Av=new A.aA(6e6)
+B.Av=new A.aA(7e6)
 B.fV=new A.aA(75e3)
 B.Aw=new A.aA(-38e3)
 B.Ax=new A.Xd(0,"tonalSpot")
