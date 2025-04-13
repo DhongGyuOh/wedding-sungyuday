@@ -79603,10 +79603,11 @@ while(true)switch(s){case 0:s=2
 return A.q($.aAy().Uy(0,"https://dhonggyuoh.github.io/wedding-sungyuday/",null,"\uc624\ub3d9\uaddc & \ucd5c\uc120\uc758 \uacb0\ud63c\uc2dd\uc5d0 \ucd08\ub300\ud569\ub2c8\ub2e4! \uc790\uc138\ud55c \ub0b4\uc6a9\uc740 \ub9c1\ud06c\ub97c \ud655\uc778\ud558\uc138\uc694: "),$async$vl)
 case 2:return A.x(null,r)}})
 return A.y($async$vl,r)},
-aj(){var s,r,q,p=this
+aj(){var s,r,q,p=this,o="assets/images/img_"
 p.aD()
 p.uM()
-for(s=p.r,r=20;r<=60;++r)s.push("assets/images/img_"+r+".jpg")
+for(s=p.r,r=20;r<=50;++r)s.push(o+r+".JPG")
+for(r=51;r<=60;++r)s.push(o+r+".jpg")
 q=A.a_(s).h("aj<1,r8>")
 p.w=A.a0(new A.aj(s,new A.ahI(),q),!0,q.h("aF.E"))
 p.Rl(2)},
