@@ -79452,7 +79452,7 @@ while(true)switch(s){case 0:s=2
 return A.q($.aAo().Ur(0,"https://dhonggyuoh.github.io/wedding-sungyuday/",null,"\uc624\ub3d9\uaddc & \ucd5c\uc120\uc758 \uacb0\ud63c\uc2dd\uc5d0 \ucd08\ub300\ud569\ub2c8\ub2e4! \uc790\uc138\ud55c \ub0b4\uc6a9\uc740 \ub9c1\ud06c\ub97c \ud655\uc778\ud558\uc138\uc694: "),$async$vh)
 case 2:return A.x(null,r)}})
 return A.y($async$vh,r)},
-aj(){var s,r,q,p=this,o="assets/images/img_"
+aj(){var s,r,q,p=this,o="assets/images/mg_"
 p.aD()
 p.uI()
 for(s=p.r,r=1;r<=20;++r)s.push(o+r+".JPG")
@@ -79587,7 +79587,7 @@ s.border="none"
 $.aC9()
 $.VY().Fo("map-iframe",new A.ahq(g),!0)
 s=t.F
-r=A.fw(A.a([A.jw(A.a([A.hB(i,i,B.GU,i,i,150,i,i,1),B.KX,A.eF(A.lx(A.L6(i,i,4,B.bW,i,i,!0,i,A.iM(i,A.bF(i,20,B.P,i),"6\n\uc6d4\n22\n\uc77c"),B.aj,i,i,B.T,B.ao),i,i),150,i)],s),B.L,B.X,B.aD),B.cz,new A.G8(A.XK(15),A.kR(B.aV,A.a([A.eF(A.aoI("assets/images/img_23.JPG",B.jy),500,400),A.K0(5,A.fw(A.a([A.jw(A.a([A.cs("\uc624\ub3d9\uaddc  ",i,A.bF(B.i,24,i,i)),A.au2(50,A.arO("assets/json/love2.json"),50),A.cs("  \ucd5c  \uc120",i,A.bF(B.i,24,i,i))],s),B.bi,B.dn,B.aD),B.L0,A.jw(A.a([A.fw(A.a([A.cs("\uc77c\uc694\uc77c \uc624\ud6c4 3\uc2dc 30\ubd84",i,A.bF(B.i,12,B.P,i)),B.cz,A.cs("\ub354\ucc44\ud50c\uc573\uccad\ub2f4 3\uce35 \ucee4\ud2f0\uc9c0\ud640",i,A.bF(B.i,12,B.P,i)),B.ww,A.cs("\uc11c\uc6b8 \uac15\ub0a8\uad6c \ub17c\ud604\ub3d9 94-9",i,A.bF(B.i,12,B.P,i))],s),B.bi,B.X),B.KY],s),B.L,B.dn,B.aD)],s),B.bi,B.dn),i,i,i,5,i,i)],s),B.b8),i),B.L3],s),B.L,B.X)
+r=A.fw(A.a([A.jw(A.a([A.hB(i,i,B.GU,i,i,150,i,i,1),B.KX,A.eF(A.lx(A.L6(i,i,4,B.bW,i,i,!0,i,A.iM(i,A.bF(i,20,B.P,i),"6\n\uc6d4\n22\n\uc77c"),B.aj,i,i,B.T,B.ao),i,i),150,i)],s),B.L,B.X,B.aD),B.cz,new A.G8(A.XK(15),A.kR(B.aV,A.a([A.eF(A.aoI("assets/images/mg_23.JPG",B.jy),500,400),A.K0(5,A.fw(A.a([A.jw(A.a([A.cs("\uc624\ub3d9\uaddc  ",i,A.bF(B.i,24,i,i)),A.au2(50,A.arO("assets/json/love2.json"),50),A.cs("  \ucd5c  \uc120",i,A.bF(B.i,24,i,i))],s),B.bi,B.dn,B.aD),B.L0,A.jw(A.a([A.fw(A.a([A.cs("\uc77c\uc694\uc77c \uc624\ud6c4 3\uc2dc 30\ubd84",i,A.bF(B.i,12,B.P,i)),B.cz,A.cs("\ub354\ucc44\ud50c\uc573\uccad\ub2f4 3\uce35 \ucee4\ud2f0\uc9c0\ud640",i,A.bF(B.i,12,B.P,i)),B.ww,A.cs("\uc11c\uc6b8 \uac15\ub0a8\uad6c \ub17c\ud604\ub3d9 94-9",i,A.bF(B.i,12,B.P,i))],s),B.bi,B.X),B.KY],s),B.L,B.dn,B.aD)],s),B.bi,B.dn),i,i,i,5,i,i)],s),B.b8),i),B.L3],s),B.L,B.X)
 q=A.fw(A.a([B.bV,A.jw(A.a([A.cs("D "+B.e.j(B.e.bN(new A.ca(Date.now(),0,!1).h_(A.cP(h,6,23,0,0,0,0,0)).a,864e8))+"  ",i,A.bF(i,18,B.P,i)),A.au2(50,A.arO("assets/json/love.json"),50)],s),B.L,B.dp,B.aD),B.L2,A.cs("\uc774\uc81c \uc11c\ub85c, \ud3c9\uc0dd \ud568\uaed8",i,A.bF(i,14,B.P,i)),B.wv,A.L6(i,i,6,B.bW,i,i,!0,i,A.iM(i,A.bF(i,15,i,i),"\ud558\ub298 \uc544\ub798 \ub0b4\uac00 \ubc1b\uc740\n\uac00\uc7a5 \ucee4\ub2e4\ub780 \uc120\ubb3c\uc740 \uc624\ub298\uc785\ub2c8\ub2e4.\n\n\uc624\ub298 \ubc1b\uc740 \uc120\ubb3c \uac00\uc6b4\ub370\uc11c\ub3c4\n\uac00\uc7a5 \uc544\ub984\ub2e4\uc6b4 \uc120\ubb3c\uc740 \ub2f9\uc2e0\uc785\ub2c8\ub2e4.\n- \ub098\ud0dc\uc8fc, \uc120\ubb3c"),B.aj,i,i,B.T,B.ao),B.wv,A.eF(A.fw(A.a([A.jw(A.a([A.cs("(\u6545)",i,A.bF(i,10,i,i)),A.cs("\uc624\uc815\uad00 \uc8fc\uacbd\ud76c\uc758 \uc7a5\ub0a8 \uc624\ub3d9\uaddc",i,A.bF(i,14,B.P,i))],s),B.L,B.dp,B.aD),B.ww,A.cs("   \ucd5c\ucc3d\uc6d0 \uae40\uc815\uc120\uc758 \uc7a5\ub140 \ucd5c   \uc120",i,A.bF(i,14,B.P,i))],s),B.L,B.X),200,i),B.bV],s),B.L,B.X)
 p=A.cs("\uc18c\uc911\ud55c \ub2f9\uc2e0\uc744 \ucd08\ub300\ud569\ub2c8\ub2e4.",i,A.bF(i,14,B.P,i))
 o=A.wB(A.cs("\uacf5\uc720\ud558\uae30",i,A.bF(i,12,B.P,i)),j.ga87())
