@@ -76221,7 +76221,7 @@ aq(){var s,r,q,p=this,o="assets/images/img_"
 p.aO()
 p.tY()
 for(s=p.r,r=1;r<=20;++r)s.push(o+r+".jpg")
-for(r=21;r<=36;++r)s.push(o+r+".jpg")
+for(r=21;r<=34;++r)s.push(o+r+".jpg")
 q=A.a_(s).h("am<1,qy>")
 p.w=A.a2(new A.am(s,new A.af6(),q),!0,q.h("aI.E"))
 p.PC(2)},
@@ -76253,7 +76253,7 @@ s=6
 return A.t(m.dK(B.q2),$async$oM)
 case 6:m=o.d
 s=7
-return A.t(m.td(A.azP(A.f4("asset:///assets/music/cover.mp3",0,null),null,null),null,!0),$async$oM)
+return A.t(m.td(A.azP(A.f4("asset:///assets/music/cover2.mp3",0,null),null,null),null,!0),$async$oM)
 case 7:q=1
 s=5
 break
@@ -76352,7 +76352,7 @@ s.border="none"
 $.ayO()
 $.Ur().E2("map-iframe",new A.aeW(j),!0)
 s=t.af
-r=A.hl(A.a([B.dt,new A.F8(A.akV(15),A.me(B.b2,A.a([A.h7(A.Hc("assets/images/img_37.jpg",B.jb),500,300)],s),B.bd),k),B.iq,A.hl(A.a([A.kt(A.a([A.cs("\uc624\ub3d9\uaddc  ",A.bs(B.n,24,k,k,k,k)),A.cs("&  \ucd5c  \uc120   ",A.bs(B.n,24,k,k,k,k))],s),B.K,B.bF,B.ax),B.w4,A.kt(A.a([A.hl(A.a([A.cs("2025.06.22",A.bs(B.n,14,B.I,1,k,k)),B.iq,A.cs("\uc77c\uc694\uc77c \uc624\ud6c4 3\uc2dc 30\ubd84",A.bs(B.n,12,B.I,1,k,k)),B.dt,A.cs("\ub354\ucc44\ud50c\uc573\uccad\ub2f4 3\uce35 \ucee4\ud2f0\uc9c0\ud640",A.bs(B.n,12,B.I,1,k,k)),B.K2,A.cs("\uc11c\uc6b8 \uac15\ub0a8\uad6c \ub17c\ud604\ub3d9 94-9",A.bs(B.n,12,B.I,1,k,k))],s),B.K,B.a5),B.JZ],s),B.K,B.bF,B.ax)],s),B.c3,B.hp),B.co],s),B.K,B.a5)
+r=A.hl(A.a([B.dt,new A.F8(A.akV(15),A.me(B.b2,A.a([A.h7(A.Hc("assets/images/img_35.jpg",B.jb),500,300)],s),B.bd),k),B.iq,A.hl(A.a([A.kt(A.a([A.cs("\uc624\ub3d9\uaddc  ",A.bs(B.n,24,k,k,k,k)),A.cs("&  \ucd5c  \uc120   ",A.bs(B.n,24,k,k,k,k))],s),B.K,B.bF,B.ax),B.w4,A.kt(A.a([A.hl(A.a([A.cs("2025.06.22",A.bs(B.n,14,B.I,1,k,k)),B.iq,A.cs("\uc77c\uc694\uc77c \uc624\ud6c4 3\uc2dc 30\ubd84",A.bs(B.n,12,B.I,1,k,k)),B.dt,A.cs("\ub354\ucc44\ud50c\uc573\uccad\ub2f4 3\uce35 \ucee4\ud2f0\uc9c0\ud640",A.bs(B.n,12,B.I,1,k,k)),B.K2,A.cs("\uc11c\uc6b8 \uac15\ub0a8\uad6c \ub17c\ud604\ub3d9 94-9",A.bs(B.n,12,B.I,1,k,k))],s),B.K,B.a5),B.JZ],s),B.K,B.bF,B.ax)],s),B.c3,B.hp),B.co],s),B.K,B.a5)
 q=Date.now()
 p=A.aEi(2025,6,23,0,0,0,0,0,!1)
 if(p==null)p=864e14
@@ -76364,7 +76364,7 @@ o=A.cs("\uac24 \ub7ec \ub9ac",A.bs(k,14,B.I,k,k,k))
 n=l.x
 m=l.w
 m===$&&A.b()
-n=A.hl(A.a([new A.iT(r,B.PU,k),B.cO,new A.iT(q,B.PV,k),B.cO,new A.iT(p,B.PW,k),B.cO,new A.iT(A.hl(A.a([B.co,o,A.wt(k,new A.hz(B.B1,A.h7(A.aoH(m[n].a,B.e2,new A.ce(n,t.f3),new A.aeX()),550,k),k),B.aa,!1,k,k,k,k,k,k,k,k,k,k,k,k,k,new A.aeY(l,a),k,k,k,k,k,k),A.h7(A.hl(A.a([new A.qu(B.b.bo(l.w,0,20),l.gad_(),l.gadb(),2,k),B.iq,new A.qu(B.b.bo(l.w,21,36),l.gad0(),new A.aeZ(l),6,k)],s),B.K,B.a5),300,400),B.w4],s),B.K,B.a5),B.PX,k),B.cO,new A.iT(A.hl(A.a([B.co,A.cs("\uc624\uc2dc\ub294 \uae38",A.bs(k,14,B.I,2,k,k)),B.bN,A.h7(A.Hc("assets/images/img_bus.jpg",k),500,k),A.h7(A.Hc("assets/images/img_bus2.jpg",k),500,k),B.co,B.K0,B.co],s),B.K,B.a5),B.PY,k),B.cO,new A.iT(A.hl(A.a([B.bN,A.cs("\uc2e0\ub791\uc2e0\ubd80\uc5d0\uac8c \ub9c8\uc74c \uc804\ud558\uae30",A.bs(k,14,B.I,2,k,k)),B.bN,A.cs("\ucd95\ud558\uc758 \ub9c8\uc74c\uc744 \ub2f4\uc544 \ucd95\uc758\uae08\uc744 \uc804\ub2ec\ud574\ubcf4\uc138\uc694.",A.bs(k,12,k,k,k,k)),B.bN,A.cs("\uc774\ub984\uc744 \ud074\ub9ad\ud558\uba74 \uacc4\uc88c\ubc88\ud638\uac00 \ubcf5\uc0ac\ub429\ub2c8\ub2e4.",A.bs(k,10,k,2,k,k)),B.bN,A.h7(A.kt(A.a([A.hl(A.a([A.cs("\uc2e0\ub791\uce21 \uacc4\uc88c\ubc88\ud638",A.bs(k,12,k,k,k,k)),A.Gf(A.cs("\ud83e\udd35 \uc624\ub3d9\uaddc",A.bs(k,12,B.I,k,k,k)),new A.af_(l,a)),A.Gf(A.kt(A.a([A.cs("\uc5b4\uba38\ub2c8",A.bs(B.hs,10,B.I,k,k,k)),A.cs(" \uc8fc\uacbd\ud76c",A.bs(k,12,B.I,k,k,k))],s),B.K,B.a5,B.ax),new A.af0(l,a)),B.K1],s),B.K,B.hq),B.K_,A.hl(A.a([A.cs("\uc2e0\ubd80\uce21 \uacc4\uc88c\ubc88\ud638",A.bs(k,12,k,k,k,k)),A.Gf(A.cs("\ud83d\udc70 \ucd5c  \uc120",A.bs(k,12,B.I,k,k,k)),new A.af1(l,a)),A.Gf(A.kt(A.a([A.cs("\uc544\ubc84\uc9c0",A.bs(B.hs,10,B.I,k,k,k)),A.cs(" \ucd5c\ucc3d\uc6d0",A.bs(k,12,B.I,k,k,k))],s),B.K,B.a5,B.ax),new A.af2(l,a)),A.Gf(A.kt(A.a([A.cs("\uc5b4\uba38\ub2c8",A.bs(B.hs,10,B.I,k,k,k)),A.cs(" \uae40\uc815\uc120",A.bs(k,12,B.I,k,k,k))],s),B.K,B.a5,B.ax),new A.af3(l,a))],s),B.K,B.hq)],s),B.K,B.bF,B.ax),150,k),B.dt,B.dt],s),B.K,B.a5),B.PZ,k)],s),B.K,B.bF)
+n=A.hl(A.a([new A.iT(r,B.PU,k),B.cO,new A.iT(q,B.PV,k),B.cO,new A.iT(p,B.PW,k),B.cO,new A.iT(A.hl(A.a([B.co,o,A.wt(k,new A.hz(B.B1,A.h7(A.aoH(m[n].a,B.e2,new A.ce(n,t.f3),new A.aeX()),550,k),k),B.aa,!1,k,k,k,k,k,k,k,k,k,k,k,k,k,new A.aeY(l,a),k,k,k,k,k,k),A.h7(A.hl(A.a([new A.qu(B.b.bo(l.w,0,20),l.gad_(),l.gadb(),2,k),B.iq,new A.qu(B.b.bo(l.w,21,33),l.gad0(),new A.aeZ(l),2,k)],s),B.K,B.a5),300,400),B.w4],s),B.K,B.a5),B.PX,k),B.cO,new A.iT(A.hl(A.a([B.co,A.cs("\uc624\uc2dc\ub294 \uae38",A.bs(k,14,B.I,2,k,k)),B.bN,A.h7(A.Hc("assets/images/img_bus1.jpg",k),500,k),A.h7(A.Hc("assets/images/img_bus2.jpg",k),500,k),B.co,B.K0,B.co],s),B.K,B.a5),B.PY,k),B.cO,new A.iT(A.hl(A.a([B.bN,A.cs("\uc2e0\ub791\uc2e0\ubd80\uc5d0\uac8c \ub9c8\uc74c \uc804\ud558\uae30",A.bs(k,14,B.I,2,k,k)),B.bN,A.cs("\ucd95\ud558\uc758 \ub9c8\uc74c\uc744 \ub2f4\uc544 \ucd95\uc758\uae08\uc744 \uc804\ub2ec\ud574\ubcf4\uc138\uc694.",A.bs(k,12,k,k,k,k)),B.bN,A.cs("\uc774\ub984\uc744 \ud074\ub9ad\ud558\uba74 \uacc4\uc88c\ubc88\ud638\uac00 \ubcf5\uc0ac\ub429\ub2c8\ub2e4.",A.bs(k,10,k,2,k,k)),B.bN,A.h7(A.kt(A.a([A.hl(A.a([A.cs("\uc2e0\ub791\uce21 \uacc4\uc88c\ubc88\ud638",A.bs(k,12,k,k,k,k)),A.Gf(A.cs("\ud83e\udd35 \uc624\ub3d9\uaddc",A.bs(k,12,B.I,k,k,k)),new A.af_(l,a)),A.Gf(A.kt(A.a([A.cs("\uc5b4\uba38\ub2c8",A.bs(B.hs,10,B.I,k,k,k)),A.cs(" \uc8fc\uacbd\ud76c",A.bs(k,12,B.I,k,k,k))],s),B.K,B.a5,B.ax),new A.af0(l,a)),B.K1],s),B.K,B.hq),B.K_,A.hl(A.a([A.cs("\uc2e0\ubd80\uce21 \uacc4\uc88c\ubc88\ud638",A.bs(k,12,k,k,k,k)),A.Gf(A.cs("\ud83d\udc70 \ucd5c  \uc120",A.bs(k,12,B.I,k,k,k)),new A.af1(l,a)),A.Gf(A.kt(A.a([A.cs("\uc544\ubc84\uc9c0",A.bs(B.hs,10,B.I,k,k,k)),A.cs(" \ucd5c\ucc3d\uc6d0",A.bs(k,12,B.I,k,k,k))],s),B.K,B.a5,B.ax),new A.af2(l,a)),A.Gf(A.kt(A.a([A.cs("\uc5b4\uba38\ub2c8",A.bs(B.hs,10,B.I,k,k,k)),A.cs(" \uae40\uc815\uc120",A.bs(k,12,B.I,k,k,k))],s),B.K,B.a5,B.ax),new A.af3(l,a))],s),B.K,B.hq)],s),B.K,B.bF,B.ax),150,k),B.dt,B.dt],s),B.K,B.a5),B.PZ,k)],s),B.K,B.bF)
 r=l.e?B.Bo:B.Bp
 return A.arO(A.me(B.b2,A.a([new A.d_(new A.af4(l),new A.KS(B.AZ,n,k),k,t.WA),A.a6E(k,A.wt(k,A.aoH(r,B.aS,k,new A.af5()),B.aa,!1,k,k,k,k,k,k,k,k,k,k,k,k,k,l.ga60(),k,k,k,k,k,k),k,k,k,10,10,k)],s),B.bd))}}
 A.af6.prototype={
